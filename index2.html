@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+
+<!--[if IE 6]><html lang="en" class="ie-6"><![endif]-->
+<!--[if IE 7]><html lang="en" class="ie-7"><![endif]-->
+<!--[if IE 8]><html lang="en" class="ie-8"><![endif]-->
+<!--[if IE 9]><html lang="en" class="ie-9"><![endif]-->
+<!--[if !IE]><!--><html lang="en" ng-app="myApp"><!--<![endif]-->
+    <head>
+
+        <title>Enter Title | UHG</title>
+        <meta charset="utf-8"/>
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+        <!--[if IE]>
+            <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+        <![endif]-->    
+	
+		
+		<!--[if IE 6]>
+		<link rel="stylesheet" type="text/css" href="assets/css/ie6.css"/>
+		<![endif]-->
+		
+		<!--[if IE 7]>
+		<link rel="stylesheet" type="text/css" href="assets/css/ie7.css"/>
+		<![endif]-->
+			
+			<script type="text/javascript" src="app/lib/angular.min.js"></script>
+			<script type="text/javascript" src="app/lib/controller.js"></script>
+
+	    
+	</head>
+	
+	<body>
+
+	    <div class="container">
+		
+		<section>
+		
+		
+			<div class="row user-info" ng-controller="userController">
+			<div class="row">
+		<!-- <ul class="horizontal-list" ng-model="thesills">
+		<li><button>Web Design</button></li>
+		<li><button>Graphic Design</button></li>
+		<li><button>Logo Design</button></li>
+		</ul> -->
+		<label>Browse By Skill</label>
+		<input type="text" ng-model="search.skills">
+		<!--<a ng-click="usersinfo.skills = user.skills">{{user.skill}}</a>
+
+
+	-->
+		</div>
+				<div class="user-block span3" ng-repeat="user in userinfo | filter:{skills:search.skills} ">
+					<!--<img src="images/{{user.username}}_tn.jpg">-->
+					<h2>{{user.username}}</h2>
+					<p>{{user.email}}</p>
+				</div>
+			</div>
+		</section>
+		
+			
+			
+
+	    </div><!-- /.container -->
+
+
+			
+			<!--[if lte IE 8]>
+		<script type="text/javascript" src="app/lib/respond.js"></script>
+		<![endif]-->
+
+			<!--[if lt IE 9]>
+		<script type="text/javascript" src="app/lib/html5.js"></script>
+		<![endif]-->
+
+	</body>
+</html>

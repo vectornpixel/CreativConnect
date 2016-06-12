@@ -1,0 +1,617 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"tra",
+				"transparent"
+			],
+			[
+				"border-c",
+				"border-color"
+			],
+			[
+				"data",
+				"dataUrl"
+			],
+			[
+				"Sta",
+				"StatsFactory"
+			],
+			[
+				"if",
+				"if	JS - if"
+			],
+			[
+				"mess",
+				"messageText"
+			],
+			[
+				"accept",
+				"acceptbtn"
+			],
+			[
+				"mes",
+				"messageText"
+			],
+			[
+				"dis",
+				"displayJob"
+			],
+			[
+				"acce",
+				"acceptJob"
+			],
+			[
+				"no",
+				"notify"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"design",
+				"designtype"
+			],
+			[
+				"basef",
+				"baseFontSize"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"margin-",
+				"margin-top"
+			],
+			[
+				"lik",
+				"likebtn"
+			],
+			[
+				"j",
+				"javascript"
+			],
+			[
+				"navbar-",
+				"navbar-inverse"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"le",
+				"letter-spacing"
+			],
+			[
+				"work",
+				"work__thumbs"
+			],
+			[
+				"BACK",
+				"background-color"
+			],
+			[
+				"headings",
+				"headingsBg2"
+			],
+			[
+				"max",
+				"max-height"
+			],
+			[
+				"mar",
+				"margin-right"
+			],
+			[
+				"vi",
+				"visible"
+			],
+			[
+				"ver",
+				"vertical-align"
+			],
+			[
+				"hi",
+				"hidden"
+			],
+			[
+				"bl",
+				"block"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"rel",
+				"relative"
+			],
+			[
+				"ab",
+				"absolute"
+			],
+			[
+				"po",
+				"position"
+			],
+			[
+				"jum",
+				"jumbotron_img"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"chat",
+				"chatbox"
+			],
+			[
+				"tex",
+				"text-align"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 2524,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"Snippet: bootstrap",
+				"Snippet: Bootstrap large button"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 602.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/asimcraft/VectorNPixel/Websites/creativconnect/index.html",
+		"/Users/asimcraft/VectorNPixel/Websites/creativconnect/jobs-view.html",
+		"/Users/asimcraft/VectorNPixel/Apps/WeightMeasurements/controllers/statscontroller.js",
+		"/Users/asimcraft/VectorNPixel/Apps/WeightMeasurements/views/enterdata.html",
+		"/Users/asimcraft/VectorNPixel/Apps/WeightMeasurements/assets/css/less/styles.less",
+		"/Users/asimcraft/VectorNPixel/Apps/WeightMeasurements/index.html",
+		"/Users/asimcraft/VectorNPixel/Apps/WeightMeasurements/assets/css/less/main.less",
+		"/Users/asimcraft/VectorNPixel/Apps/WeightMeasurements/views/results.html",
+		"/Users/asimcraft/VectorNPixel/Apps/WeightMeasurements/controllers/statsController.js",
+		"/Users/asimcraft/VectorNPixel/Apps/WeightMeasurements/controllers/testing.js",
+		"/Users/asimcraft/VectorNPixel/Apps/WeightMeasurements/app-module.js",
+		"/Users/asimcraft/VectorNPixel/Apps/WeightMeasurements/controllers/statsDirective.js",
+		"/Users/asimcraft/VectorNPixel/Apps/WeightMeasurements/controllers/statscontroller-bak.js",
+		"/Users/asimcraft/VectorNPixel/Apps/WeightMeasurements/components/form.js",
+		"/Users/asimcraft/VectorNPixel/Websites/SGDownload/wp-config.php",
+		"/Users/asimcraft/VectorNPixel/Apps/WeightMeasurements/assets/css/css/main.css",
+		"/Users/asimcraft/VectorNPixel/Apps/WeightMeasurements/assets/css/less/layouts/pages/viewstats.less",
+		"/Users/asimcraft/VectorNPixel/Apps/WeightMeasurements/assets/css/less/layouts/pages/_addstats.less",
+		"/Users/asimcraft/VectorNPixel/Apps/WeightMeasurements/assets/css/less/layouts/_header.less",
+		"/Users/asimcraft/VectorNPixel/Websites/SPA-Template/assets/css/less/global.less",
+		"/Users/asimcraft/VectorNPixel/Apps/WeightMeasurements/assets/css/less/page/enterdata.less",
+		"/Users/asimcraft/VectorNPixel/Apps/WeightMeasurements/assets/css/main.less",
+		"/Users/asimcraft/server.js",
+		"/Users/asimcraft/Vector N Pixel/Modules/Javascript/sum.html",
+		"/Users/asimcraft/Vector N Pixel/Modules/Javascript/invoice.js",
+		"/Projects/practice/pagePiling.js-master/jquery.pagepiling.js",
+		"/Projects/practice/angular.js",
+		"/Projects/stackeddesigns/stacksite/css/styles.less",
+		"/Projects/Web Components/web/globals.less",
+		"/Projects/stackeddesigns/stacksite/contactform.php",
+		"/Projects/stackeddesigns/stacksite/index.html",
+		"/Projects/Web Components/web/components/nav-default/nav-default.less",
+		"/Projects/Web Components/web/components/nav-default/index.html",
+		"/Projects/Web Components/web/components/contactform-right/contactform-right.less",
+		"/Projects/open source/jquery-focuspoint-master/js/jquery.focuspoint.js",
+		"/Projects/Web Components/web/components/footer-3col/index.html",
+		"/Projects/Web Components/web/css/globals.css",
+		"/Projects/Theme Shack/Themes/Personal Trainer/HTML/index.html",
+		"/Projects/Theme Shack/Themes/Personal Trainer/HTML/css/styles.less",
+		"/Projects/Web Components/web/components/callout/index.html",
+		"/Users/asimcraft/Downloads/FullscreenGridPortfolioTemplate/index.html",
+		"/Projects/Theme Shack/Themes/Personal Trainer/HTML/css/styles.css",
+		"/Projects/Theme Shack/Themes/Personal Trainer/HTML/classes.html",
+		"/Projects/Web Components/web/components/contactform-right/index.html",
+		"/Projects/Web Components/web/components/team-large/team-large.less",
+		"/Projects/Web Components/web/components/clients/clients.less",
+		"/Projects/Web Components/web/components/content-2col/content-2col.less",
+		"/Projects/Web Components/web/components/content-left/content-left.less",
+		"/Projects/Web Components/web/components/content-right/content-right.less",
+		"/Projects/Web Components/web/components/features-3col/features-3col.less",
+		"/Projects/Web Components/web/components/features-4col/features-4col.less",
+		"/Projects/Web Components/web/components/footer-3col/footer-3col.less",
+		"/Projects/Web Components/web/components/gallery-full/gallery-full.less",
+		"/Projects/Web Components/web/components/nav-menu/nav-menu.less",
+		"/Projects/Web Components/web/components/news-col3/news-col3.less",
+		"/Projects/Web Components/web/components/news-col3-alt/news-col3-alt.less",
+		"/Projects/Web Components/web/components/news-col4/news-col4.less",
+		"/Projects/Web Components/web/components/slider-full/slider-full.less",
+		"/Projects/Web Components/web/components/testimonial-3col/testimonial-3col.less",
+		"/Projects/Web Components/web/components/testimonial-single/testimonial-single.less",
+		"/Projects/Web Components/web/components/vertlist-images/vertlist-images.less",
+		"/Projects/Web Components/web/components/callout/callout.less",
+		"/Projects/Web Components/web/components/vertlist-text/vertlist-text.less",
+		"/Projects/Web Components/web/components/css/news-col3.css",
+		"/Projects/Web Components/web/components/vertlist-text/index.html",
+		"/Projects/Web Components/web/components/vertlist-images/index.html",
+		"/Projects/Web Components/web/components/team-large/index.html",
+		"/Projects/Web Components/web/components/features-3col/index.html",
+		"/Projects/Web Components/web/components/testimonial-single/index.html",
+		"/Projects/Web Components/web/components/testimonial-3col/index.html",
+		"/Projects/Web Components/web/components/nav-menu/index.html",
+		"/Projects/Web Components/web/components/slider-full/index.html",
+		"/Projects/Web Components/web/components/gallery-full/index.html",
+		"/Projects/Web Components/web/components/gallery-4col/index.html",
+		"/Projects/Web Components/web/components/content-2col/index.html",
+		"/Projects/Web Components/web/components/news-col4/index.html",
+		"/Projects/Web Components/web/components/news-col3-alt/index.html",
+		"/Projects/Web Components/web/components/features-4col/index.html",
+		"/Projects/Web Components/web/components/content-right/index.html",
+		"/Projects/Web Components/web/components/content-left/index.html",
+		"/Projects/Web Components/web/components/news-col3/index.html",
+		"/Users/asimcraft/Box Sync/Resources/Frameworks/stacklst framework/stacklist.html",
+		"/Projects/wordpress/wp-content/themes/index.php",
+		"/Projects/jobboard/index.html",
+		"/Users/asimcraft/Box Sync/VNP-Themes/old/Design Company/HTML/index.html",
+		"/Projects/wordpress/wp-content/themes/shackframework/content-theme.php",
+		"/Users/asimcraft/Desktop/test/test/personaltrainer 1.css",
+		"/Projects/openproject/config/configuration.yml",
+		"/Projects/wordpress/wp-content/themes/vectornpixel/css/bootstrap.css",
+		"/Projects/wordpress/wp-content/themes/vectornpixel/content-theme.php",
+		"/Projects/wordpress/wp-content/themes/vectornpixel/content-browse.php",
+		"/Projects/wordpress/wp-content/themes/vectornpixel/functions.php",
+		"/Projects/wordpress/wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css",
+		"/Projects/wordpress/wp-content/plugins/woocommerce/assets/css/woocommerce.css",
+		"/Projects/wordpress/wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen.css",
+		"/Projects/wordpress/wp-content/plugins/woocommerce/assets/css/woocommerce.less",
+		"/Projects/wordpress/wp-content/plugins/woocommerce/templates/content-product.php",
+		"/Projects/wordpress/wp-content/plugins/woocommerce/templates/content-single-product.php",
+		"/Projects/wordpress/wp-content/plugins/woocommerce/templates/single-product.php",
+		"/Projects/wordpress/wp-content/themes/vectornpixel/woocommerce/archive-product.php",
+		"/Projects/wordpress/wp-content/themes/vectornpixel/single-shackthemes.php",
+		"/Projects/wordpress/wp-content/plugins/woocommerce/templates/archive-product.php",
+		"/Projects/wordpress/wp-content/plugins/wp-catalogue/themefiles/archive-wpcproduct.php",
+		"/Projects/wordpress/wp-content/plugins/wp-catalogue/themefiles/archive.php",
+		"/Projects/wordpress/wp-content/plugins/wp-catalogue/themefiles/single-wpcproduct.php",
+		"/Projects/wordpress/wp-content/plugins/wp-catalogue/index.php",
+		"/Projects/wordpress/wp-content/plugins/wp-catalogue/settings.php",
+		"/Projects/wordpress/wp-content/plugins/wp-catalogue/wpc-catalogue.php",
+		"/Projects/wordpress/wp-content/plugins/wp-catalogue/includes/db-settings.php",
+		"/Projects/wordpress/wp-content/themes/vectornpixel/content-page.php",
+		"/Projects/wordpress/wp-content/themes/vectornpixel/page.php",
+		"/Projects/wordpress/wp-content/themes/vectornpixel/page-browse.php",
+		"/Projects/wordpress/wp-content/themes/vectornpixel/comments.php",
+		"/Projects/wordpress/wp-content/themes/vectornpixel/content-browse-bak.php",
+		"/Projects/wordpress/wp-content/themes/vectornpixel/archive-shackthemes.php",
+		"/Projects/wordpress/wp-content/themes/vectornpixel/style.css",
+		"/Projects/wordpress/wp-content/plugins/shackthemeplugin/shackthemeplugin.php",
+		"/Projects/wordpress/wp-content/themes/vectornpixel/header.php",
+		"/Projects/wordpress/wp-content/themes/vectornpixel/footer.php",
+		"/Projects/wordpress/wp-content/themes/vectornpixel/archive.php",
+		"/Projects/wordpress/wp-content/themes/vectornpixel/content-shackthemes.php",
+		"/Projects/wordpress/wp-content/themes/vectornpixel/css/stacklst.css",
+		"/Projects/wordpress/wp-content/themes/vectornpixel/css/styles.css",
+		"/Projects/wordpress/wp-content/themes/vectornpixel/content-single-shack_themes.php",
+		"/Projects/wordpress/wp-content/themes/vectornpixel/single-shack_themes.php",
+		"/Users/asimcraft/Box Sync/Resources/Frameworks/stacklst framework/index.html",
+		"/Projects/wordpress/wp-content/themes/vectornpixel/content-home.php",
+		"/Projects/wordpress/wp-content/themes/vectornpixel/index.php"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"\">\n",
+			"                <",
+			"styles",
+			"css",
+			"label",
+			"function"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"label"
+		],
+		"reverse": false,
+		"show_context": false,
+		"use_buffer2": false,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"settings":
+					{
+						"buffer_size": 2524,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/AngularJS/AngularJS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 25.0
+	},
+	"output.jslint_result_view":
+	{
+		"height": 100.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"",
+				"60in60/js/chat.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 292.0,
+	"status_bar_visible": true
+}

@@ -1,0 +1,77 @@
+{
+	"type": "UserCollection",
+	"properties": {
+		"email": {
+			"name": "email",
+			"type": "string",
+			"typeLabel": "string",
+			"required": true,
+			"id": "email",
+			"order": 0
+		},
+		"name": {
+			"name": "name",
+			"type": "string",
+			"typeLabel": "string",
+			"required": true,
+			"id": "name",
+			"order": 1
+		},
+		"city": {
+			"name": "city",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "city",
+			"order": 2
+		},
+		"usertype": {
+			"name": "usertype",
+			"type": "string",
+			"typeLabel": "string",
+			"required": true,
+			"id": "usertype",
+			"order": 3
+		},
+		"state": {
+			"name": "state",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "state",
+			"order": 4
+		},
+		"website": {
+			"name": "website",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "website",
+			"order": 5
+		},
+		"bio": {
+			"name": "bio",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "bio",
+			"order": 6
+		},
+		"photo": {
+			"name": "photo",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "photo",
+			"order": 7
+		},
+		"services": {
+			"name": "services",
+			"type": "array",
+			"typeLabel": "array",
+			"required": false,
+			"id": "services",
+			"order": 8
+		}
+	}
+}

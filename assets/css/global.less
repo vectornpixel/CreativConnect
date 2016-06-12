@@ -1,0 +1,193 @@
+@import url(http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,400,300,600,700,800);
+
+/*------------------------------------*\
+		$Global Variables
+\*------------------------------------*/
+@brand-primary:#e74c3c;;
+@baseFontColor2:#fff;
+@baseHeadingColor:#ea2e49; /* red */
+@baseBgColor:#e4e4e4;
+@baseBgColor2:#fff;
+@altBgColor1:#ea2e49; /* red */
+@altBgColor2:#191919; /* darker grey */
+@altBgColor3:#252525; /* dark grey */
+@baseMargin: 10px;
+@basePadding: 10px;
+@fontLarge:24px;
+@fullwidth: 100%;
+@white:#fff;
+@black:#000;
+@marginless:0;
+@titleFont:'BebasNeue', sans-serif;
+@baseFontColor:#333333;
+@headingsColor:#dadada;
+@headingsBg:#e74c3c;
+@lightgrey:#f9f9f9;
+@darkgrey: #1f1f1f;
+@baseFontSize: 16px;
+@fontLarge:24px;
+//@orange: #ff8a00;
+@orange: #F4B350;
+//@green:#8dbf67;
+@green: #68C3A3;
+//@green2:#7ccd9f;
+@green2:#36D7B7;
+//@green-alt:#91aa9d;
+@green-alt: #59ABE3;
+//@blue:#2d3b97;
+@blue:#1F3A93;
+/* Global Mixins */
+/*------------------------------------*\
+	$Base Styles
+\*------------------------------------*/
+html,body{
+  height: 100%;
+  background-color: #f6f6f6 /*#e7e9ec */ /* #f5f8f9*/;
+  font-family: 'Roboto', sans-serif;
+  letter-spacing: .1em;
+}
+
+h1,h2,h3,h4{
+  font-weight: 400;
+}
+
+.full-width{
+  width:100%;
+}
+.centered {
+  display: table;
+  width: 100%;
+}
+.centered .vcenter {
+  display: table-cell;
+  vertical-align: middle;
+}
+.spacing-padding{
+  padding:@basePadding * 2;
+}
+.spacing{
+  margin-top:@baseMargin * 2;
+  margin-bottom: @baseMargin * 2;
+}
+.spacing-bottom{
+  margin-bottom: @baseMargin * 2;
+}
+.spacing-top{
+  margin-top:@baseMargin * 2;
+}
+.marginless{
+  margin: @marginless;
+}
+.no-padding{
+  padding:0;
+}
+.padding-left-none{
+  padding-left:0;
+}
+.padding-right-none{
+  padding-right:0;
+}
+.circle{
+  margin-left: auto;
+  margin-right:auto;
+  border-radius: 50%;
+  background-color: #4cc2f3;
+  width:140px;
+  height: 140px;
+  padding:48px;
+
+}
+.circle:hover{
+  background-color:#dcdcdc;
+  -webkit-transition-property:color, background;
+  -webkit-transition-duration: .20s, .20s;
+  -webkit-transition-timing-function: linear, ease-in;
+}
+
+.button{
+  background-color:@altBgColor1;
+  color:@baseFontColor2;
+  border: 1px solid transparent;
+  padding:10px 40px;
+}
+.button-over{
+  background-color:transparent;
+  border: 1px solid @altBgColor1;
+  color:@baseFontColor2;
+  -webkit-transition: background 0.30s ease-in;
+  -moz-transition: background 0.30s ease-in;
+  -o-transition: background 0.30s ease-in;
+  transition: background 0.30s ease-in;
+}
+.section-color1{
+  background-color:@altBgColor2;
+  .widget-large__title{
+    color:@baseFontColor2;
+  }
+}
+/*------------------------------------*\
+    $Font Sizing & Styles
+\*------------------------------------*/
+
+.giga, .mega, .kilo, .alpha, .beta, .gamma, .delta, .epsilon, .milli, .zeta{
+  //color:@darkgrey;
+}
+.giga{
+  font-size: 80px;
+}
+
+.mega {
+  font-size: 64px;
+}
+
+.kilo{
+  font-size: 48px;
+}
+
+.alpha {
+  font-size: 32px;
+}
+
+.beta {
+  font-size: 24px;
+}
+
+.gamma {
+  font-size: 20px;
+}
+
+.delta {
+  font-size: 18px;
+}
+
+.epsilon {
+  font-size: 16px;
+}
+.zeta {
+  font-size: 14px;
+}
+
+.milli {
+  font-size: 12px;
+}
+.text-bold{
+  font-weight: 400;
+}
+/*------------------------------------*\
+    $Color Overwrites
+\*------------------------------------*/
+.blue{
+  color:@brand-primary;
+}
+.red{
+  color:#ff0000;
+}
+.darkgrey{
+  color:@darkgrey;
+}
+.secondary-color{
+  background-color:#a6ccbc;
+}
+.muted-font{
+  color:#aaaaaa;
+}
